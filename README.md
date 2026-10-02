@@ -1,6 +1,6 @@
 # Hakeem
 
-### *One Patient. One Medical Record. One Healthcare Journey.*
+### * One Medical Record. One Healthcare Journey.*
 
 ---
 

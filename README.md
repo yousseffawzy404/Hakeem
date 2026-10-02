@@ -1,6 +1,6 @@
 # Hakeem
 
-### * One Medical Record. One Healthcare Journey.*
+### * One Medical Record. Special Healthcare .*
 
 ---
 
@@ -18,7 +18,7 @@ By connecting healthcare providers through a unified platform, **Hakeem** helps 
 - **Youssif Refat**
 - **Clara Saed**
 - **Eman Elnady**
-- **Mostafa Shreif**
+- **Mostafa Sherif**
 - **Menna Ashour**
 
 ---

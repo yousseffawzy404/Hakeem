@@ -1,4 +1,4 @@
-# Doctorak
+# Hakeem
 
 ### *One Patient. One Medical Record. One Healthcare Journey.*
 
@@ -6,15 +6,15 @@
 
 ## Description
 
-**Doctorak** is an integrated healthcare platform that connects patients with doctors, hospitals, laboratories, and radiology centers in one seamless ecosystem. It aims to simplify the patient's healthcare journey by providing faster access to trusted medical services, advance appointment booking, and a unified medical record that securely organizes the patient's medical history, prescriptions, laboratory results, and radiology reports.
+**Hakeem** is an integrated healthcare platform that connects patients with doctors, hospitals, laboratories, and radiology centers in one seamless ecosystem. It aims to simplify the patient's healthcare journey by providing faster access to trusted medical services, advance appointment booking, and a unified medical record that securely organizes the patient's medical history, prescriptions, laboratory results, and radiology reports.
 
-By connecting healthcare providers through a unified platform, Doctorak helps reduce waiting times, improve communication, and enable healthcare facilities to prepare for patients before their arrival—especially in urgent and critical cases. The platform is designed to make healthcare more connected, accessible, and efficient for both patients and healthcare providers.
+By connecting healthcare providers through a unified platform, **Hakeem** helps reduce waiting times, improve communication, and enable healthcare facilities to prepare for patients before their arrival—especially in urgent and critical cases. The platform is designed to make healthcare more connected, accessible, and efficient for both patients and healthcare providers.
 
 ---
 
 ## Team Members
 
-- Youssif Fawzy
+- **Youssef Fawzy**
 - **Youssif Refat**
 - **Clara Saed**
 - **Eman Elnady**
@@ -31,11 +31,11 @@ By connecting healthcare providers through a unified platform, Doctorak helps re
 
 ## Project Overview
 
-**Doctorak** is an integrated healthcare platform designed to simplify and connect the patient's healthcare journey in one place. The application connects **patients, doctors, hospitals, laboratories, and radiology centers**, allowing patients to access trusted healthcare providers faster and more efficiently.
+**Hakeem** is an integrated healthcare platform designed to simplify and connect the patient's healthcare journey in one place. The application connects **patients, doctors, hospitals, laboratories, and radiology centers**, allowing patients to access trusted healthcare providers faster and more efficiently.
 
 The platform provides a **unified medical record** for each patient, containing their medical history, medical information, prescriptions, laboratory results, and radiology results. With the patient's permission, authorized healthcare providers can access the relevant medical information needed to provide better and faster care.
 
-Doctorak also enables patients to search for suitable healthcare providers, book appointments in advance, and reach hospitals or medical centers without wasting unnecessary time.
+**Hakeem** also enables patients to search for suitable healthcare providers, book appointments in advance, and reach hospitals or medical centers without wasting unnecessary time.
 
 In critical cases, the patient's medical information can be shared with the receiving hospital in advance, allowing the hospital and medical team to prepare for the patient's arrival and begin the appropriate care as quickly as possible.
 
@@ -63,7 +63,7 @@ The project will be presented as a complete **UI/UX case study**, covering the r
 - **Laboratory & Radiology Services:** Receive bookings and upload laboratory or radiology results directly to the patient's medical record.
 - **Healthcare Journey Tracking:** Connect different stages of treatment and make the patient's journey easier to follow.
 
-> **Final Deliverable:** A complete UI/UX case study and high-fidelity prototype for the Doctorak healthcare ecosystem, demonstrating the end-to-end healthcare journey across patients, doctors, hospitals, laboratories, and radiology centers.
+> **Final Deliverable:** A complete UI/UX case study and high-fidelity prototype for the **Hakeem healthcare ecosystem**, demonstrating the end-to-end healthcare journey across patients, doctors, hospitals, laboratories, and radiology centers.
 
 ---
 
@@ -110,6 +110,6 @@ The project will be presented as a complete **UI/UX case study**, covering the r
 - Improve the interface based on user feedback.
 - Finalize the prototype.
 - Document the design decisions and research findings.
-- Prepare the final UI/UX case study and presentation.
+- Prepare the final **Hakeem UI/UX case study** and presentation.
 
 ---

@@ -1,6 +1,6 @@
 # Hakeem
 
-### * One Medical Record. Special Healthcare .*
+### One Medical Record. Smarter Healthcare.
 
 ---
 
@@ -40,6 +40,14 @@ The platform provides a **unified medical record** for each patient, containing 
 In critical cases, the patient's medical information can be shared with the receiving hospital in advance, allowing the hospital and medical team to prepare for the patient's arrival and begin the appropriate care as quickly as possible.
 
 The project will be presented as a complete **UI/UX case study**, covering the research, problem definition, user journeys, information architecture, user flows, wireframes, visual design, prototype, and usability testing.
+
+---
+
+## UI/UX Design (Figma)
+
+The complete UI/UX design and interactive prototype of **Hakeem** are available on Figma.
+
+**[View Hakeem UI/UX Design on Figma](https://www.figma.com/design/eoT5jYCLcLc9vSxK29qB7d/Untitled?node-id=0-1&t=NTYMFQYbShzTcxBc-1)**
 
 ---
 
